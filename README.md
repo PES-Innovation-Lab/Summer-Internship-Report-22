@@ -26,6 +26,9 @@ Once you've read the guidelines, let's get started. Here's a rundown on how to w
 
 # Need Help
 LaTeX has a decent learning curve and it's completely alright for the interns to reach out to anyone in Lab for help. However, we've included a few resources in this repository to make it easier. 
+
 Please find all the content from the LaTeX session in the resources folder which should help out with a good chunk of the basic LaTeX commands. 
+
 If you need more help, our first recommendation would be to google it :) LaTeX has its Stack Exchange page linked [here](https://tex.stackexchange.com/). 
+
 Additionally, Overleaf has extensive documentation for LaTeX which should suffice. If you haven't found a solution or would prefer to ask a human, you can always reach out to Lab Members! 
